@@ -1,0 +1,21 @@
+{
+  "name": "techlab-forms",
+  "version": "0.0.1",
+  "description": "Techlab forms for data collection and basic visualization.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node":"0.10.x",
+    "npm": "1.3.x"
+  },
+  "author": "Armen Danielyan",
+  "license": "MIT",
+  "dependencies": {
+    "jade": "~1.1.5",
+    "express": "~3.4.8",
+    "stylus": "~0.42.2",
+    "mongoose": "~3.8.8"
+  }
+}

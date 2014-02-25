@@ -1,0 +1,17 @@
+{
+  "name": "techlab-forms",
+  "version": "0.0.1",
+  "description": "Techlab forms application for data collection and basic visualization.",
+  "authors": [
+    "Armen Danielyan"
+  ],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "jquery": "~2.1.0",
+    "toastr": "~2.0.1",
+    "angular": "~1.2.13",
+    "angular-resource": "~1.2.13",
+    "angular-route": "~1.2.13"
+  }
+}
